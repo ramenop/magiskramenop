@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "라면펀치 23.0",
+    "versionCode": "23000",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+    "note": "커스텀 매지스크 BY 라면펀치"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+  }
+}
