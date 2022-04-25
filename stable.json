@@ -3,7 +3,7 @@
     "version": "라면펀치",
     "versionCode": "23000",
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
-    "note": "https://raw.githubusercontent.com/killop00/magiskramenop/main/stable.md"
+    "note": "https://raw.githubusercontent.com/ramenop/magiskramenop/main/stable.md"
   },
   "stub": {
     "versionCode": "21",
