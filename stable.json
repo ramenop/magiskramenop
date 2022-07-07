@@ -1,7 +1,7 @@
 {
   "magisk": {
     "version": "𝙓𝘼 𝙍𝘼𝙈𝙀𝙉 2.0",
-    "versionCode": "23000",
+    "versionCode": "29000",
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
     "note": "https://raw.githubusercontent.com/ramenop/magiskramenop/main/stable.md"
   },
